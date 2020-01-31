@@ -1,0 +1,4 @@
+testenv/
+dataset/
+*.csv
+*.zip
